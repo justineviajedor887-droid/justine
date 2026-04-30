@@ -1,0 +1,6 @@
+{
+  "name": "KabaFind",
+  "description": "A comprehensive real estate platform with multi-role dashboards (Tenant, Owner, Admin), property listings, and interactive map views.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
